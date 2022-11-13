@@ -1,0 +1,11 @@
+.label{
+    text-align: center;
+}
+.editorclass{
+height: 400px;
+background-color: bisque;
+}
+.mapbox{
+    border:2px solid black ;
+    margin: 20px 300px;
+}
